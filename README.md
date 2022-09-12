@@ -1,5 +1,5 @@
 ### Nice to meet you, I'm Mitchell (MI-chull). 
-- 🔭 I currently work within at @Shopify as a Senior Developer! 
+- 🔭 I currently work at [@Shopify](https://github.com/Shopify) as a Senior Developer! 
 - ❤️ Pronouns: he/him/his
 - 🧠 I am always looking to grow and contribute to new open source projects!
 - 🌱 I am currently learning Ruby on Rails and React. 
